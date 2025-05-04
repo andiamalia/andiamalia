@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Andi Cici Amalia 👋
+
+I'm a passionate lifelong learner with a background in Communication Science and a growing interest in technology and digital innovation. Currently exploring the world of Machine Learning through Laskar AI Bootcamp and actively involved in the Women Techmakers Makassar community.
+
+🌱 I'm interested in social impact, digital transformation, and empowering others through inclusive technology.  
+📌 Currently working full-time in education and marketing, while upskilling in tech.  
+💡 Open to collaboration in tech-driven projects, especially those with community impact.
+
+Let's connect and build something meaningful together!
 
 <!--
 **andiamalia/andiamalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
